@@ -69,6 +69,20 @@ ul {
         "header header header header"
         "main main main main"
         "main main main main";
+        padding: 0;
+        margin: 0;
+    }
+    .blog-block img{
+        width: 100vw;
+        left: 0;
+    }
+    .blog-title {
+        padding-left: 1em;
+    }
+    .blog-block {
+        padding: 5px;
+        border: none;
+        border-bottom: 1px white dashed;
     }
 
     

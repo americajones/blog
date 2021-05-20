@@ -38,7 +38,7 @@ var blogPosts = [
         title: "First Post",
         content: `<p>I'm trying to make my own place to post my own things. Fuck twitter and fuck instagram, I'm sick of nonstop ads in my face everywhere I go. I'm sick of being pressured to post everyday lest I fall from The Algorithm's graces. Fuck social media.</p>
         <img src="https://i0.wp.com/asiatimes.com/wp-content/uploads/2017/07/15048058263_05c06bf2fd_z.jpg?fit=640%2C426&ssl=1">
-        <p>I also like when do thing 100% myself. Fuck wordpress I'm building my own content manegement system.</p>`,
+        <p>I also like when I can do thing 100% myself. Fuck wordpress I'm building my own content manegement system.</p>`,
         tagged: ["life stuff", "computer stuff"]
 
     },
