@@ -8,16 +8,16 @@ var blogPosts = [
     },
     {
         title: "AJ picks up garbage for fun",
-        content: `<p>What do rats do? We collect trash. My best friend once asked me to come volunteer and do roadside cleanup back in high school and I actually laughed, becuase there was no way in hell I was doing that shit for free. Working at a movie theatre at the time, those fuckers could barely convince me to sweep floors for mimimum wage, I wasn't about to lift a damn finger for free.</p>
+        content: `<p>What do rats do? We collect trash. My friend once asked me to come volunteer and do roadside cleanup back in high school and I actually laughed, becuase there was no way in hell I was doing that shit for free. Working at a movie theatre at the time, those fuckers could barely convince me to sweep floors for mimimum wage, I wasn't about to lift a damn finger for free.</p>
 
         <p>I've always had trouble "going outside", and even walking the dog never got me to a place where I wanted to Go Outside and Stay There for a bit. But walking the dog DID start to take my trash blinders off. If you live in a city you live amidst scores of neverending trash, seeing trash is so common it becomes a part of our backgroud. But our dogs see it, and want it in their mouths, lol. So I bought some trash picking tongs and a bucket. </p>
 
         <p>The expected results: My brain now has a never ending task to latch onto when walking around outdoors. I want to go for walks more, I am happy to go along with my wife whenever they walk the dog, and I'm even happy to go out by myself and take a little trash walk.</p>
 
-        <p>The unexpected results: Neighbors fucking love it, I am forcably integrated into my local society. Old ladies offer me treats, old men nod vigorously at my efforts, I might end up actually knowing the people around me. Since I practically live downtown there's ALWAYS trash around and there's always gonna be more. I've found it doesn't dampen my mood at all, rather I'm kind of excited that I'll always have something to do out there. </p>
+        <p>The unexpected results: Neighbors fucking love it, I am forcably integrated into my local society. Old ladies offer me treats, old men nod vigorously at my efforts, I might end up actually knowing the people around me. Since I practically live downtown there's ALWAYS trash around and there's always gonna be more. I've found it doesn't dampen my mood at all, rather I'm kind of excited that I'll always have something to do out there. Trash collecting highly recommended.</p>
 
         <p>Anyways I really love picking up trash and have played myself for a fool. I wanna bring my bucket fucking everywhere. And that's character growth baybee.</p>`,
-        tagged: ["life stuff"]
+        tagged: ["life stuff", "recs"]
     },
     {
         title: "AJ goes retro and accidentally learns color theory",
