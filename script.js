@@ -1,7 +1,28 @@
 var blogPosts = [
     {
+        title: "AJ makes art out of programs",
+        content: `<p>So I've been learning C++ and making these tiny shitty programs that convert numbers to binary, or output ascii bubble text or do whatever simple thing I can manage, and they compile into little .exe files. If I take one of these files and force the computer to read the data as image data, it spits out all this pleasing green junk:</p>
+        <img src="./images/grnGlitch-2.PNG">
+        <p>ooo, yeah okay can I cram more in there to make it look less stretched?</p>
+        <img src="./images/grnGlitch-4.png">
+        <p>oo, yea I can render it in whatever size I want</p>
+        <img src="./images/still3.jpg">
+        <p>PRETTY NEAT, but why is it always green? Took some fiddling to find other color patterns</p>
+        <img src="./images/still10.jpg">
+        <p>pink</p>
+        <img src="./images/still2.jpg">
+        <p>frogger</p>
+        <img src="./images/still15.jpg">
+        <p>oo, found some dark reds and back into green</p>
+        <img src="./images/still22.jpg">
+        <p>now this is a beautiful glitch</p>
+        <p>Useless!! But very cool. I now have lots of original glitch art stockpiled for... something, eventually I'm sure.</p>
+        `,
+        tagged: ["art stuff, computer stuff"]
+    },
+    {
         title: "AJ and Errow sing the praises of deodorant",
-        content: `<p>We've been making an effort to cut down on plastic in our lives and Errow tried this natural deodorant and it works so well we are like- wait what</p>
+        content: `<>We've been making an effort to cut down on plastic in our lives and Errow tried this natural deodorant and it works so well we are like- wait what</>
         <img src="https://cdn.shopify.com/s/files/1/1503/9114/products/BEST-UNSCENTED-NATURAL-DEODORANT-deodorent-aluminum-free-magnesium-strong-24-hour-sensitive-skin-organic-clean-cream-NATURAL-02_2048x2048.jpg?v=1569098589">
         <p>It smells like NOTHING! I love sniffing my wife</p>`,
         tagged: ["recs"]
