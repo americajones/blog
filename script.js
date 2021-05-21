@@ -18,7 +18,7 @@ var blogPosts = [
         <p>now this is a beautiful glitch</p>
         <p>Useless!! But very cool. I now have lots of original glitch art stockpiled for... something, eventually I'm sure.</p>
         `,
-        tagged: ["art stuff, computer stuff"]
+        tagged: ["art stuff", "computer stuff"]
     },
     {
         title: "AJ and Errow sing the praises of deodorant",
