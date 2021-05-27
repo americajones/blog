@@ -1,5 +1,18 @@
 var blogPosts = [
     {
+        title: "AJ's Dad",
+        content: `<p>It's my Dads' birthday today, he would have been 61. Here's one of my favorite photos of him:</p>
+        <br>
+        <img src="./images/IMG_6168.JPG">
+        <br>
+        <p>He was a really good Dad and I'm pissed he's gone, he kind of died before I was aware of myself as a person. It felt like I was in school and focused on that for so long and then I was free and I just wanted some fucking space and then he died. SUCKS. He had a lot of confidence in me. I try to keep that alive at least. I'm glad my Mom is awesome and still here for me to tell her.</p>
+        <br>
+        <p>I see him in my smile, especially after shaving my head. I miss his energy.</p>
+        <br>
+        `,
+        tagged: ["life stuff"]
+    },
+    {
         title: "AJ makes art out of programs",
         content: `<p>So I've been learning C++ and making these tiny shitty programs that convert numbers to binary, or output ascii bubble text or do whatever simple thing I can manage, and they compile into little .exe files. If I take one of these files and force the computer to read the data as image data, it spits out all this pleasing green junk:</p>
         <img src="./images/grnGlitch-2.PNG">
