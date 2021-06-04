@@ -8,6 +8,41 @@ var blogPosts = [
         <p>He was a really good Dad and I'm pissed he's gone, he kind of died before I was aware of myself as a person. It felt like I was in school and focused on that for so long and then I was free and I just wanted some fucking space and then he died. SUCKS. He had a lot of confidence in me. I try to keep that alive at least. I'm glad my Mom is awesome and still here for me to tell her.</p>
         <br>
         <p>I see him in my smile, especially after shaving my head. I miss his energy.</p>
+        <p>EDIT:</p>
+        <p>
+        okay now that I'm less sad I can talk about him some more. 
+        </p>
+        <p>
+        Kelsie Neal Jones, his nickname was Preacher but not because he was religious, it was because he was always preaching about the importance of education and going to school.
+        </p>
+        <p>
+        Born in the year of the rat, he was in the army for 22 years, he liked singing and dancing and cooking and he was also a huge nerd. He loved science, always talked to me about whatever class he was taking, called me his nematode. 
+        </p>
+        <p>
+        this is a nematode:
+        </p>
+        <img src="https://media.nature.com/lw800/magazine-assets/d41586-019-02197-0/d41586-019-02197-0_16972068.jpg" alt="nematode"
+        <br>
+        <p>
+        lmao. He loved science, learning, and encouraged curiosity. He was also a turd with a shitty sense of humor and I'm happy to announce that lives on in me as well.
+        </p>
+        <p>
+        I don't remember him being religious, but he turned to religion plenty in his life, looked to it to help stop drinking. I was certainly forced to go to church a lot more than I was ever interested in, but as a PERSON I don't know if I could say he was very spiritual. I would say my Mom is a more spiritual person, and she's not really Religious either. 
+        </p>
+        <p>
+        Daddy, I hope to be as good as a cook as you were. I hope to learn from your mistakes and remain inspired by your successes. I'm sad I never got to know you as a man, but as a Dad you did a real good job from ages 0-12. Fuck you and fight me for the shit that came afterwards. 
+        </p>
+        <p>
+        I love you. 
+        </p>
+        <p>
+        Your <s>daughter</s> <s>son</s> only-child
+        </p>
+        <p>
+        AJ
+        </p>
+        <p>
+        (PS- I know you're kicking yourself right now for not sticking around for another decade or so, bc I know you'd be telling me to make all these apps and finally here I am I know how AND I'm willing? damn, smh)</p>
         <br>
         `,
         tagged: ["life stuff"]
